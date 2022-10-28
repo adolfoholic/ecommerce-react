@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import CardProduct from '../components/Home/CardProduct'
+import CardProduct from '../components/home/CardProduct'
 import FilterCategory from '../components/home/FilterCategory'
 import FilterPrice from '../components/home/FilterPrice'
 import InputSearch from '../components/home/InputSearch'
