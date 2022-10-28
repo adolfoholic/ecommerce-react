@@ -1,0 +1,18 @@
+.filter__price-form{
+    position: relative;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.label__price{
+    margin-right: 10px;
+}
+.input__to{
+    margin-left: 22px;
+}
+.filter-price__btn{
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 750;
+}

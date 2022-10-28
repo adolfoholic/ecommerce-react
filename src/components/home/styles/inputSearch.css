@@ -1,0 +1,15 @@
+.input__search{
+    position: relative;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.input__product{
+    position: inherit;
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 300px;
+    padding: 5px;
+    border-color: rgb(192, 191, 191);
+    border-style:inset;
+    border-width: 0.5px;
+}

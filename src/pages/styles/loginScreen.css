@@ -1,0 +1,17 @@
+.login__div{
+    position: relative;
+    margin-bottom: 500px;
+}
+.login__user-logged{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.logout-btn{
+    border-radius: 5px;
+    background-color: grey;
+    padding: 10px 30px;
+    margin-top: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
